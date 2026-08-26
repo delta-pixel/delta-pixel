@@ -1,22 +1,27 @@
-Hi, I'm Pankaj Singha👋
+👋 Hey, I'm Pankaj Singha
 
-🎓 B.Tech Computer Science Engineering Student In DIT University 
-💻 Interested in Software Development
-🌱 Currently learning DSA, Java & Web Development
-🚀 Building projects to improve my development skills
+🎓 B.Tech CSE Student @ DIT University
+💻 Aspiring Software Developer
+🚀 Building. Learning. Improving.
 
-### 🛠️ Technologies
+I enjoy turning ideas into practical projects and exploring how technology can solve real-world problems.
 
-Java | Python | JavaScript | HTML | CSS | SQL
-Git | GitHub
+🛠️ Tech I Work With
 
-### 🔥 Featured Projects
+"Java" "Python" "C" "JavaScript" "HTML" "CSS" "SQL"
 
-1. Student Management System
-2. Portfolio Website
-3. Expense Tracker
-4. DSA Practice
+🌱 Currently
 
-### 📫 Connect with me
+- Improving my DSA & problem-solving skills
+- Building web & software projects
+- Exploring Full-Stack Development
+- Preparing for Software Development opportunities
 
-LinkedIn | Email
+🎯 My Goal
+
+«Learn continuously. Build meaningful things. Become a better developer.»
+
+📫 Let's Connect
+
+Email: ps6375513@gmail.com
+LinkedIn: "Pankaj Singha" (https://www.linkedin.com/in/pankaj-singha-663b49345/)
