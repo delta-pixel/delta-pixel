@@ -21,7 +21,7 @@ I enjoy turning ideas into practical projects and exploring how technology can s
 
 «Learn continuously. Build meaningful things. Become a better developer.»
 
-📫 Let's Connect
+📫 Let's Connect.
 
 Email: ps6375513@gmail.com
 LinkedIn: "Pankaj Singha" (https://www.linkedin.com/in/pankaj-singha-663b49345/)
